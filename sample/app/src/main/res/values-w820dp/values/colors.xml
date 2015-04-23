@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="primColor">#388e3c</color>
+    <color name="primDarkColor">#1b5e20</color>
+    <color name="greenishBlack">#2F4F55</color>
+    <color name="accentGreenBlack">#0D415C</color>
+    <color name="accentBlue">#0091ea</color>
+    <color name="textMaroon">@color/primColor</color>
+    <color name="dullGreen">#4CAf50</color>
+    <color name="dullYellow">#eedd00</color>
+    <color name="transWhite">#20FFFFFF</color>
+    <color name="lightGrey">#DDDDDD</color>
+    <color name="alphaWhite">#7FFFFFFF</color>
+    <color name="sepGrey">@color/grey2</color>
+    <color name="transDarkBlack">#CC000000</color>
+    <color name="transBlack">#7F000000</color>
+    <color name="googleRed">#DD4B39</color>
+    <color name="black">@android:color/black</color>
+
+    <!--Bold Colors-->
+    <color name="prim1">@color/primColor</color>
+    <color name="prim2">#A42933</color>
+    <color name="prim3">#C62E3A</color>
+    <color name="prim4">#DB3442</color>
+    <color name="prim5">#EB4452</color>
+    <color name="prim6">#FF7788</color>
+    <color name="sec">@color/accentGreenBlack</color>
+    <color name="grey1">#F4F4F4</color>
+    <color name="grey2">#CCCCCC</color>
+    <color name="grey3">#999999</color>
+    <color name="grey4">#4D4D4D</color>
+    <color name="beer">#E08B1D</color>
+    <color name="whisky">#E06529</color>
+    <color name="redwine">#A4254E</color>
+    <color name="rosewine">#DB4A56</color>
+    <color name="sparkwine">#DEBA5B</color>
+    <color name="whitewine">#CFCB45</color>
+
+    <color name="bar1">@color/primColor</color>
+    <color name="bar2">@color/prim2</color>
+    <color name="bar3">@color/prim3</color>
+    <color name="bar4">@color/prim4</color>
+    <color name="bar5">@color/prim5</color>
+    <color name="bar6">@color/prim6</color>
+
+
+    <color name="progbar1">#FF6200</color>
+    <color name="progbar2">#ffc400</color>
+
+    <color name="progbar3">#c6ff00</color>
+    <color name="progbar4">#64dd17</color>
+    <color name="progbar5">#4caf50</color>
+    <color name="white">@android:color/white</color>
+    <color name="fbblue">#4A6EA9</color>
+    <color name="transblack">#AA000000</color>
+</resources>

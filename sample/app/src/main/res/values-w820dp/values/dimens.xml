@@ -1,0 +1,76 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_winesel">14dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_short">8dp</dimen>
+    <dimen name="margin_shorter">6dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_nonstandard">20dp</dimen>
+    <dimen name="margin_extra_short">4dp</dimen>
+    <dimen name="margin_extra_shorter">2dp</dimen>
+    <dimen name="padding_xlarge">32dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_big">24dp</dimen>
+    <dimen name="padding_standard">8dp</dimen>
+    <dimen name="padding_xstandard">12dp</dimen>
+    <dimen name="padding_short">4dp</dimen>
+    <dimen name="padding_extra_short">2dp</dimen>
+
+    <dimen name="padding_content_hor">5dp</dimen>
+    <dimen name="padding_content_ver">10dp</dimen>
+    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="toolbarheight">56dp</dimen>
+    <dimen name="toolbar_margin_start">72dp</dimen>
+    <dimen name="flexible_space_height">72dp</dimen>
+    <dimen name="flexible_space_image_height">240dp</dimen>
+    <dimen name="flexible_space_show_fab_offset">120dp</dimen>
+
+    <dimen name="parallax_image_height">180dp</dimen>
+    <dimen name="tab_height">49dp</dimen>
+    <dimen name="tab_pager_padding">87dp</dimen>
+    <dimen name="header_bar_height">72dp</dimen>
+    <dimen name="intersection_height">16dp</dimen>
+    <dimen name="title_height">40dp</dimen>
+    <dimen name="sliding_slop">32dp</dimen>
+    <dimen name="sliding_overlay_blur_size">4dp</dimen>
+    <dimen name="fab_button_size">50dp</dimen>
+    <dimen name="fab_button_sizelarge">60dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="tab_card_height">55dp</dimen>
+    <dimen name="tagheight">33dp</dimen>
+    <dimen name="headerViewHeight">175dp</dimen>
+    <dimen name="font_extrasmall">10sp</dimen>
+    <dimen name="font_small">13sp</dimen>
+    <dimen name="font_smaller">12sp</dimen>
+    <dimen name="font_standard">14sp</dimen>
+    <dimen name="font_subhead">16sp</dimen>
+    <dimen name="font_head">18sp</dimen>
+    <dimen name="font_extralarge">22sp</dimen>
+    <dimen name="fabsmall">40dp</dimen>
+    <dimen name="icon_finalpage">30dp</dimen>
+    <dimen name="icon_smallfinalpage">20dp</dimen>
+    <dimen name="image_small">60dp</dimen>
+    <dimen name="image_standard">80dp</dimen>
+    <dimen name="fab_margin_normal">-25dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <dimen name="icon_list">25dp</dimen>
+    <dimen name="toolbar_inset">10dp</dimen>
+    <dimen name="padding_floatbutton">76dp</dimen>
+    <dimen name="bevcardheight">170dp</dimen>
+    <dimen name="taglistheight">118dp</dimen>
+
+</resources>

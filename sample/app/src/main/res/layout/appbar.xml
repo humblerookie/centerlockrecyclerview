@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.Toolbar
+    android:id="@+id/appbar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toolbarheight"
+    android:contentInsetStart="@dimen/toolbar_inset"
+    android:contentInsetLeft="@dimen/toolbar_inset"
+    app:contentInsetLeft="@dimen/toolbar_inset"
+    app:contentInsetStart="@dimen/toolbar_inset"
+    android:background="?attr/colorPrimary"
+    android:minHeight="?attr/actionBarSize"
+    app:theme="@style/ThemeOverlay.AppCompat.ActionBar"/>

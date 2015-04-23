@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hrookie/Project/hipcaskv2/Demo/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-da06498f2175db3fab4a7f95bd9f2eaa38c805ae.jar" />
+    </item>
+    <item
+        jar="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/classes-60d71dd78a51067f538b759500c528895d133105.jar" />
+    </item>
+    <item
+        jar="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/classes-1f4d76a6c192b4bec50171a6b37bca6a675c60a1.jar" />
+    </item>
+    <item
+        jar="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-012f158a510e14b53e60bc64927bb6e3fe01a2e4.jar" />
+    </item>
+    <item
+        jar="/home/hrookie/Software/Android/Android SDK/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-95b68bec425ed292393632e5be261e2b6ffaf7ad.jar" />
+    </item>
+    <item
+        jar="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/hrookie/Project/hipcaskv2/Demo/app/build/intermediates/pre-dexed/debug/classes-39552bfdb4823193ca96aabbbe22581cd7adb9eb.jar" />
+    </item>
+
+</items>

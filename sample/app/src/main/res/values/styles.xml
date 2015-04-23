@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Default">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.Default" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/primColor</item>
+    <item name="colorPrimaryDark">@color/primDarkColor</item>
+    <item name="colorAccent">@color/accentBlue</item>
+
+
+
+    <!-- You can also set colorControlNormal, colorControlActivated
+         colorControlHighlight, and colorSwitchThumbNormal. -->
+
+    </style>
+
+<style name="screenbody">
+    <item name="android:background">@color/lightGrey</item>
+    <item name="android:paddingLeft">7dp</item>
+    <item name="android:paddingRight">7dp</item>
+    <item name="android:paddingTop">4dp</item>
+    <item name="android:paddingBottom">4dp</item>
+</style>
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transBlack</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="ToolBar.TextTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+    <style name="ToolBar.Default" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/primColor</item>
+        <item name="theme">@style/ToolBar.TextTheme</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+
+
+</resources>
