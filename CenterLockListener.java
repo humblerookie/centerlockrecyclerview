@@ -48,9 +48,8 @@ public class CenterLockListener extends RecyclerView.OnScrollListener {
         View view=null,retview=null;boolean notfound=true;
         for(int i=lm.findFirstVisibleItemPosition();i<=lm.findLastVisibleItemPosition()&& notfound;i++){
             view=lm.findViewByPosition(i);
-            int diffleft=Math.abs(SCREEN_CENTER_X -view.getLeft());
-            int diffright=Math.abs(SCREEN_CENTER_X -view.getRight());
-            int leastdiff=diffleft>diffright?diffright:diffleft;
+
+            int leastdiff=Math.abs(SCREEN_CENTER_X-(view.getLeft()+view.getRight())/2);
 
             if(leastdiff<=mindist || i==lm.findFirstVisibleItemPosition())
             {                mindist=leastdiff;
