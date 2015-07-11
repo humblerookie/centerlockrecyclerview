@@ -10,6 +10,11 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
+
+        </activity>
+        <activity
+            android:name=".CenterLockActivity"
+            android:label="@string/title_activity_center_lock" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.demo.CenterLockActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="↓"
+        android:id="@+id/centerIndicator"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/list"
+        android:clipToPadding="false"
+        android:layout_below="@id/centerIndicator"
+        android:divider="@android:color/transparent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

@@ -70,7 +70,7 @@ public class MainAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
         }
         else{
             ((SwipeHolder)holder).rc.setAdapter(adapter);
-            ((SwipeHolder)holder).rc.setOnScrollListener(new CenterLockListener((android.app.Activity) context));
+            ((SwipeHolder)holder).rc.setOnScrollListener(new CenterLockListener(0));
         }
     }
 

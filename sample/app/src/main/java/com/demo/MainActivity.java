@@ -22,7 +22,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends ActionBarActivity{
     RecyclerView listView;
-    ArrayList<SampleBean> mData=new ArrayList<SampleBean>();
+    ArrayList<SampleBean> mData = new ArrayList<SampleBean>();
     View header,footer,btngroup,plusbutton;
 
     @Override
