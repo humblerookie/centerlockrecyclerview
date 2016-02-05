@@ -1,5 +1,5 @@
-# centerlockrecyclerview
-Center Lock RecyclerView
+# Center Lock RecyclerView
+
 This is a recyclerview scroll listener implementation that has a center locking (auto rescroll to center) feature in horizontal mode.
 
  
