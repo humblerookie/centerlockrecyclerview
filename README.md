@@ -1,4 +1,8 @@
-# Center Lock RecyclerView
+# ⚠️DEPRECATED 
+ Center Lock Recyclerview is now deprecated in favour of [SnapHelper](https://developer.android.com/reference/android/support/v7/widget/SnapHelper). If you haven't moved to Snaphelper yet checkout some good examples of the same [here](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
+
+
+# ~~Center Lock RecyclerView~~
 
 This is a recyclerview scroll listener implementation that has a center locking (auto rescroll to center) feature in horizontal mode.
 
